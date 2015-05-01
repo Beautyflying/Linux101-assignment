@@ -1,9 +1,4 @@
-#
-#
-# useradd
-# chpasswd
-# chown
-# chmod
-# edquota
-#
-
+#！/bin/bash
+echo "hello world!"
+echo "I'm having breakfast~~~"
+date
